@@ -14,3 +14,4 @@ ActionDetectionforSignLanguage/
 .git/
 .idea/
 logs/
+models/*.h5
