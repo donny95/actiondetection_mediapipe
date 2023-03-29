@@ -1,0 +1,16 @@
+MP_Data/
+MP_Data3/
+MP_Data4/
+MP_Data4_add/
+MP_Dummy/
+MP_test/
+venv/
+action_test1.h5
+collecting_keypoints2.py
+ddd.py
+test2.py
+train_3action.py
+ActionDetectionforSignLanguage/
+.git/
+.idea/
+logs/
